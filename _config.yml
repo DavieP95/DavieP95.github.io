@@ -1,11 +1,11 @@
 # Site settings
 author: David Polanco
-title: 
+title: David's Coding Corner
 header-img: img/home-bg.png
 email: dayvflight@gmail.com
 copyright_name: David Polanco
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow me along my journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DavieP95
